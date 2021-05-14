@@ -1,4 +1,4 @@
-#Podcastr
+# Podcastr
 Projeto desenvolvido na quinta edição da Next Level Week da [RocketSeat](https://rocketseat.com.br/).
 
 Este é um projeto [Next.js](https://nextjs.org) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
